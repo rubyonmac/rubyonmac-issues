@@ -5,6 +5,11 @@ title: ''
 assignees: ''
 ---
 
+Hi there. Thanks for buying Ruby on Mac!
+
+If you bought Ruby on Mac Prime and it failed while running in normal mode,
+please run it in reset mode first before reporting a bug.
+
 **In which version of Ruby on Mac did you find the bug?**
 Basic, Plus, or Prime?
 
